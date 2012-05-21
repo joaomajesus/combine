@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F540537C-A9E6-470B-90D6-C00F50C677F1}"
+	ProjectSection(SolutionItems) = preProject
+		Manual do Utilizador ResolveCss.docx = Manual do Utilizador ResolveCss.docx
+		Manual do Utilizador ResolveCss.pdf = Manual do Utilizador ResolveCss.pdf
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combine", "Combine\Combine.csproj", "{77BF9567-D41F-4147-868B-01389AF1DC68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combiner", "Combiner\Combiner.csproj", "{BE266B96-C218-4CB7-91CE-32483E2738EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{1F1352DC-8688-4E96-A0C5-C00345D8530B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs2010:8080/tfs/jj.pt
+		SccProjectUniqueName0 = Services\\Services.csproj
+		SccProjectName0 = Services
+		SccLocalPath0 = Services
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ResolveCss\\Combiner.csproj
+		SccProjectName2 = ResolveCss
+		SccLocalPath2 = ResolveCss
+		SccProjectUniqueName3 = Css\\Combine.csproj
+		SccProjectName3 = Css
+		SccLocalPath3 = Css
+		SccProjectUniqueName4 = Css.Tests\\Combine.Tests.csproj
+		SccProjectName4 = Css.Tests
+		SccLocalPath4 = Css.Tests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BF9567-D41F-4147-868B-01389AF1DC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BF9567-D41F-4147-868B-01389AF1DC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BF9567-D41F-4147-868B-01389AF1DC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BF9567-D41F-4147-868B-01389AF1DC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE266B96-C218-4CB7-91CE-32483E2738EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE266B96-C218-4CB7-91CE-32483E2738EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE266B96-C218-4CB7-91CE-32483E2738EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE266B96-C218-4CB7-91CE-32483E2738EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1352DC-8688-4E96-A0C5-C00345D8530B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1352DC-8688-4E96-A0C5-C00345D8530B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1352DC-8688-4E96-A0C5-C00345D8530B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1352DC-8688-4E96-A0C5-C00345D8530B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

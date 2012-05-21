@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Css.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FileHeaderFormat" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/******************************
+* This file was generated from:
+* {0}
+*******************************/
+
+</Value>
+    </Setting>
+    <Setting Name="InlineFormat" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/****** Start {0} ******/
+{1}
+/********  End {0}  ******/
+</Value>
+    </Setting>
+    <Setting Name="ImportRegexString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">@import\s+url\s*\(['""\s]*(?&lt;absolute&gt;[\\/]?)(?&lt;path&gt;.+\.css)\b['""\s]*\)\s*;</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;sdfsdfsd&lt;/string&gt;
+  &lt;string&gt;sdfsdfs&lt;/string&gt;
+  &lt;string&gt;sdf&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
